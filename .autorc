@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ScreenTimeIPTV",
+  "repo": "container-q8c612c",
+  "name": "ScreenTimeIPTV",
+  "email": "screentimeiptv@gmail.com",
+}
